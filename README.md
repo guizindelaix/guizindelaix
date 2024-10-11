@@ -1,5 +1,5 @@
 ##boas vindas ao meu perfil.
-![]. (https://parana-centro.nyc3.cdn.digitaloceanspaces.com/images/image_65e7596f74a000.02126009.webp)
+![] (https://parana-centro.nyc3.cdn.digitaloceanspaces.com/images/image_65e7596f74a000.02126009.webp)
 
 Meu nome é Guilherme Vieira Da Silva
 

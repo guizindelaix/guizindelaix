@@ -1,8 +1,9 @@
 ##boas vindas ao meu perfil.
-![](https://images.app.goo.gl/rEVjSMdrXYSFCJeSA) 
+![](![image](https://github.com/user-attachments/assets/a0b6e405-9e1f-4e0e-a98c-0319f07d5a1f)
+) 
 Meu nome é Guilherme Vieira Da Silva
 
-    Estou estudando na [Alura](https://www.alura.com.br/)
+    Estou estudando na ALura
     Estou me desenvolvendo na linguagem JavaScript
     Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
   
